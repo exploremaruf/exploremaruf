@@ -1,4 +1,5 @@
-<img src="https://github.com/exploremaruf/exploremaruf/blob/main/cover.png" alt="exploremaruf" />
+<img src= "https://github.com/user-attachments/assets/8ca90f81-3ef9-4b2b-a86a-033813804993" />
+
 
 <h1 align="center">Hi 👋, I'm Maruf Hasan</h1>
 <h3 align="center">A Programmer From Bangladesh</h3>
