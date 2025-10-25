@@ -2,7 +2,7 @@
 
 
 <h1 align="center">AssalamuAlaikum, I'm Maruf Hasan</h1>
-<h3 align="center">A Muslim From Bangladesh</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exploremaruf&label=Profile%20views&color=0e75b6&style=flat" alt="exploremaruf" /> </p>
 
