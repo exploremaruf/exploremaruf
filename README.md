@@ -45,14 +45,16 @@
 
 ### 📊 GitHub Analytics:
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=exploremaruf&show_icons=true&locale=en&layout=compact&theme=vision-glow" alt="exploremaruf" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=exploremaruf&show_icons=true&locale=en&theme=vision-glow" alt="exploremaruf" />
-</p>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=exploremaruf&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=exploremaruf&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  
+<img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=exploremaruf&langs_count=20&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+/>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=exploremaruf&theme=vision-glow" alt="exploremaruf" />
-</p>
+</div>
+
 
 ---
 <p align="center">✨ From <b>exploremaruf</b> with ❤️</p>
