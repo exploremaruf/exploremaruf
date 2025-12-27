@@ -51,7 +51,6 @@
   <br/>
   
 <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=exploremaruf&langs_count=20&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
-/>
 
 </div>
 
