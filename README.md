@@ -1,53 +1,111 @@
 <div align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif" width="100%" />
 
-  <h1>Hi 👋, I'm Maruf Hasan</h1>
-  <p><strong>Android Developer | Java Enthusiast | Tech Solutionist</strong></p>
+<!-- Animated typing banner -->
+<!-- Plaintext lines: "Hi 👋, I'm Maruf Hasan" | "Android Developer 📱" | "Java Enthusiast ⚡" | "Tech Solutionist 🛠️" -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Maruf+Hasan;Android+Developer+%F0%9F%93%B1;Java+Enthusiast+%E2%9A%A1;Tech+Solutionist+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 
-  <p>
-    <a href="https://linkedin.com/in/exploremaruf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:maruf.chats@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://twitter.com/exploremaruf"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  </p>
+<br/>
+
+<!-- Social badges -->
+<a href="https://linkedin.com/in/exploremaruf">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:maruf.chats@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://twitter.com/exploremaruf">
+  <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="https://github.com/exploremaruf">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=exploremaruf&label=Profile+Views&color=A855F7&style=flat-square" alt="Profile views" />
+
 </div>
 
 ---
 
-### 🚀 About Me
-I am a passionate **Android Developer** from Bangladesh, dedicated to building high-quality, user-centric mobile applications. My focus is on writing clean, maintainable code and exploring advanced architectural patterns.
+## 🚀 About Me
 
-- 🛠️ **Current Focus:** Android Native Development & Scalable UI Design.
-- 🌱 **Learning:** Advanced Java/Kotlin Design Patterns & Jetpack Compose.
-- 🎯 **Goals:** Contributing to open-source projects and building impactful apps.
-- ⚡ **Fun Fact:** I love tinkering with Arduino and Hardware-Software integration.
+> *Passionate Android Developer from 🇧🇩 Bangladesh, dedicated to building high-quality, user-centric mobile applications.*
 
----
-
-### 🛠️ Tech Stack & Tools
-
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | Java, Kotlin (Basic), HTML5, CSS3 |
-| **Mobile Development** | Android SDK, Android Studio, UI/UX Design |
-| **Tools & Version Control** | Git, GitHub, VS Code, Linux |
-| **Design** | Figma |
-| **Hardware** | Arduino |
+```yaml
+name:         Maruf Hasan
+role:         Android Developer
+location:     Bangladesh 🇧🇩
+focus:        Android Native Development & Scalable UI Design
+learning:     Jetpack Compose · Kotlin Design Patterns
+interests:    Open Source · Clean Architecture · Hardware Hacking
+fun_fact:     I love tinkering with Arduino & hardware-software integration ⚡
+```
 
 ---
 
-### 📊 GitHub Analytics
+## 🛠️ Tech Stack
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=exploremaruf&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=exploremaruf&langs_count=10&hide=HTML,CSS&layout=compact&theme=radical&border_radius=10" />
+
+### 💬 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📱 Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
 </div>
 
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=exploremaruf&theme=radical&border_radius=10" width="100%" />
+
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=exploremaruf&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=exploremaruf&langs_count=6&hide=HTML,CSS&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=exploremaruf&theme=tokyonight&border_radius=10&hide_border=true" width="70%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=exploremaruf&theme=tokyo-night&hide_border=true&radius=10" width="100%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=exploremaruf&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
-  <img src="https://komarev.com/ghpvc/?username=exploremaruf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+### 💡 Dev Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br/>
+
+*⭐ Star some repos if you find them useful — it means a lot!*
+
 </div>
