@@ -1,3 +1,4 @@
+<img width="3780" height="1890" alt="Game Development" src="https://github.com/user-attachments/assets/59d38627-5472-452b-8096-fb2bdaf6d578" />
 <div align="center">
 
 <!-- Animated typing banner -->
