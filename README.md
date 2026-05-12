@@ -20,7 +20,7 @@ I am an Android developer from Bangladesh.
 - GitHub: https://github.com/exploremaruf
 - LinkedIn: https://linkedin.com/in/exploremaruf
 - Twitter: https://twitter.com/exploremaruf
-- Email: mailto:maruf.chats@gmail.com
+- Email: [maruf.chats@gmail.com](mailto:maruf.chats@gmail.com)
 
 ## GitHub Analytics
 
