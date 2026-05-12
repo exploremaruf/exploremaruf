@@ -2,6 +2,8 @@
 
 # Maruf Hasan
 
+<img src="https://komarev.com/ghpvc/?username=exploremaruf&label=Profile+Views&color=A855F7&style=flat-square" alt="Profile views" />
+
 I am a developer from Bangladesh focused on Android development.
 
 ## Work
