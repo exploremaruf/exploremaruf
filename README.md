@@ -1,3 +1,5 @@
+<img width="3780" height="1890" alt="Game Development" src="https://github.com/user-attachments/assets/05645c9b-3aec-4d6e-bcc2-49e3e1f5a352" />
+
 # Maruf Hasan
 
 I am a developer from Bangladesh focused on Android development.
@@ -16,7 +18,7 @@ I am a developer from Bangladesh focused on Android development.
 ## Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,git,github,linux,figma,arduino,html,css" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,git,github,linux" alt="Tech stack icons" />
 </p>
 
 ## Links
@@ -24,7 +26,7 @@ I am a developer from Bangladesh focused on Android development.
 - [GitHub](https://github.com/exploremaruf)
 - [LinkedIn](https://linkedin.com/in/exploremaruf)
 - [Email](mailto:maruf.chats@gmail.com)
-- [X (Twitter)](https://twitter.com/exploremaruf)
+
 
 ---
 
