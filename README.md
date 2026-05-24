@@ -26,7 +26,7 @@ I am a developer from Bangladesh focused on Android development.
 ## Links
 
 - [GitHub](https://github.com/exploremaruf)
-- [LinkedIn](https://linkedin.com/in/exploremaruf)
+- [LinkedIn](https://linkedin.com/in/hmaruf)
 - [Email](mailto:maruf.chats@gmail.com)
 
 
