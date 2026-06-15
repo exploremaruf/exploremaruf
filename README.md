@@ -38,7 +38,7 @@ I am a developer from Bangladesh focused on Android development.
 
 <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=exploremaruf&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=exploremaruf&langs_count=6&hide=HTML,CSS&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=exploremaruf&langs_count=10&hide=HTML,CSS&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
 
 <br/>
 
