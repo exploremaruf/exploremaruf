@@ -8,14 +8,15 @@ I am a developer from Bangladesh focused on Android development.
 
 ## Work
 
-- Android native development
-- Java and Kotlin
+- Android Native Development (Java & Kotlin)
+- Transitioning to Cross-Platform Development (Flutter & Dart)
 - Clean and maintainable app architecture
 
 ## Currently Learning
 
-- Jetpack Compose
-- Kotlin design patterns
+- Flutter widgets, layouts, and state management
+- Multi-platform deployment (Android & iOS)
+- Mobile design patterns
 
 ## Tech
 
