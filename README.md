@@ -43,18 +43,24 @@ Android developer from Bangladesh, moving into cross-platform development with F
 
 ## GitHub Analytics
 
-<div align="center">
+ <div align="center">
 
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=exploremaruf&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true" />
-&nbsp;
-<img height="280em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=exploremaruf&langs_count=10&hide=HTML,CSS&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
-<br/>
+<div align="center">
+  <img
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=exploremaruf&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true"
+    width="35%"
+  />
+  <img
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=exploremaruf&langs_count=10&hide=HTML,CSS&layout=compact&theme=tokyonight&border_radius=10&hide_border=true"
+    width="35%"
+  />
+</div>
 
 
 <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=exploremaruf&theme=tokyonight&border_radius=10&hide_border=true" width="70%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=exploremaruf&theme=tokyo-night&hide_border=true&radius=10" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=exploremaruf&theme=tokyo-night&hide_border=true&radius=10" width="70%" />
 
 </div>
