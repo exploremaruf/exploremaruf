@@ -21,7 +21,7 @@ I am a developer from Bangladesh focused on Android development.
 ## Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,git,github,linux" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,dart,androidstudio,git,github,linux," alt="Tech stack icons" />
 </p>
 
 ## Links
