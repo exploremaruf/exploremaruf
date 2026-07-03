@@ -1,28 +1,36 @@
-<img width="3780" height="1890" alt="Game Development" src="https://github.com/user-attachments/assets/05645c9b-3aec-4d6e-bcc2-49e3e1f5a352" />
+<div align="center">
+
+<img width="100%" alt="Game Development" src="https://github.com/user-attachments/assets/05645c9b-3aec-4d6e-bcc2-49e3e1f5a352" />
 
 # Maruf Hasan
 
+Android developer from Bangladesh, moving into cross-platform development with Flutter.
+
 <img src="https://komarev.com/ghpvc/?username=exploremaruf&label=Profile+Views&color=A855F7&style=flat-square" alt="Profile views" />
 
-I am a developer from Bangladesh focused on Android development.
+</div>
 
-## Work
+---
 
-- Android Native Development (Java & Kotlin)
-- Transitioning to Cross-Platform Development (Flutter & Dart)
-- Clean and maintainable app architecture
+### Work
 
-## Currently Learning
+- Android native development — Java & Kotlin
+- Transitioning to cross-platform development — Flutter & Dart
+- Clean, maintainable app architecture
+
+### Currently Learning
 
 - Flutter widgets, layouts, and state management
 - Multi-platform deployment (Android & iOS)
 - Mobile design patterns
 
-## Tech
+### Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,dart,androidstudio,git,github,linux," alt="Tech stack icons" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,dart,androidstudio,git,github,linux" alt="Tech stack icons" />
 </p>
+
+---
 
 ## Links
 
