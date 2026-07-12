@@ -61,6 +61,7 @@ Android developer from Bangladesh, moving into cross-platform development with F
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=exploremaruf&theme=tokyo-night&hide_border=true&radius=10" width="70%" />
+<img width="1920" height="500" alt="Untitled design" src="https://github.com/user-attachments/assets/d6696607-a966-4bee-9802-8798596deb27" />
+
 
 </div>
