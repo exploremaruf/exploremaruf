@@ -1,0 +1,30 @@
+<svg viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+  <rect width="1200" height="340" fill="#F1EEE4"/>
+
+  <!-- hard offset shadow -->
+  <rect x="58" y="58" width="1084" height="224" fill="#0B0B0C"/>
+  <!-- main card -->
+  <rect x="48" y="48" width="1084" height="224" fill="#F1EEE4" stroke="#0B0B0C" stroke-width="5"/>
+  <rect x="60" y="60" width="1060" height="200" fill="none" stroke="#0B0B0C" stroke-width="1" stroke-opacity="0.3"/>
+
+  <!-- eyebrow row -->
+  <circle cx="88" cy="92" r="5" fill="#FF3B1F"/>
+  <text x="102" y="97" font-size="14" font-weight="700" letter-spacing="2" fill="#0B0B0C">ANDROID DEVELOPER — BANGLADESH</text>
+  <text x="1092" y="97" font-size="14" font-weight="700" letter-spacing="1" fill="#0B0B0C" text-anchor="end">STATUS: LEARNING</text>
+  <line x1="80" y1="112" x2="1120" y2="112" stroke="#0B0B0C" stroke-width="2" stroke-dasharray="6,6"/>
+
+  <!-- headline -->
+  <text x="78" y="196" font-size="72" font-weight="900" letter-spacing="-1" fill="#0B0B0C">MARUF </text>
+  <rect x="382" y="132" width="248" height="72" fill="#FFD400"/>
+  <text x="390" y="196" font-size="72" font-weight="900" letter-spacing="-1" fill="#0B0B0C">HASAN</text>
+
+  <!-- rotated stamp -->
+  <g transform="translate(1000,150) rotate(8)">
+    <rect x="-108" y="-30" width="216" height="60" fill="#F1EEE4" stroke="#1B3BFF" stroke-width="4"/>
+    <text x="0" y="-4" font-size="14" font-weight="700" fill="#1B3BFF" text-anchor="middle" letter-spacing="1">MOVING TO</text>
+    <text x="0" y="18" font-size="14" font-weight="700" fill="#1B3BFF" text-anchor="middle" letter-spacing="1">FLUTTER</text>
+  </g>
+
+  <!-- subtitle -->
+  <text x="80" y="232" font-size="15" fill="#3a3a3a">Native Android (Java / Kotlin) → cross-platform builds with Flutter &amp; Dart.</text>
+</svg>
