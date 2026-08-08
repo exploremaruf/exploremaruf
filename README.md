@@ -1,4 +1,4 @@
-<img src="./banner.svg" alt="Maruf Hasan — Android Developer, Bangladesh" width="100%" />
+<img width="100%" alt="Game Development" src="https://raw.githubusercontent.com/exploremaruf/exploremaruf/5f62ccac6e037aec935043b72107201e7785ab24/banner.svg" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=exploremaruf&label=PROFILE+VIEWS&color=FFD400&style=flat-square&labelColor=0B0B0C" alt="Profile views" />
