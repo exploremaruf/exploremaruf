@@ -74,4 +74,8 @@ $ status
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=exploremaruf&hide_border=true&border_radius=0&background=F1EEE4&stroke=0B0B0C&ring=FF3B1F&fire=FF3B1F&currStreakNum=0B0B0C&sideNums=0B0B0C&currStreakLabel=0B0B0C&sideLabels=0B0B0C&dates=3a3a3a" width="80%" />
 </div>
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+
 
