@@ -43,7 +43,7 @@ $ status
 └──────────────────────────────────────────────────────────────┘
 ``` -->
 
-## ▓ STACK
+## WHAT I WORK WITH
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,dart,androidstudio,git,github,linux&theme=light" alt="Tech stack icons" />
